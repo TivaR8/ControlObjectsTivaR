@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\bin\Debug\ControlObjectsTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\bin\Debug\ControlObjectsTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\bin\Debug\ControlObjectsTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\obj\Debug\ControlObjectsTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\obj\Debug\ControlObjectsTivaR.frmControlObjects.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\obj\Debug\ControlObjectsTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\obj\Debug\ControlObjectsTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\obj\Debug\ControlObjectsTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ControlObjectsTivaR\ControlObjectsTivaR\obj\Debug\ControlObjectsTivaR.pdb
